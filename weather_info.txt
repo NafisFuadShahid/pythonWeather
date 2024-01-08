@@ -1,0 +1,2 @@
+The weather in dhaka is: Mist
+The temperature in dhaka is: 72
